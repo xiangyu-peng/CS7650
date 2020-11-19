@@ -1,0 +1,7 @@
+gradescope-utils>=0.2.3
+ddt==1.1.1
+numpy
+pandas
+nltk
+torch
+pickle-mixin
